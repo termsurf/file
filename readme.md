@@ -45,7 +45,7 @@ An (incomplete) list of sources where some of the files came from.
 
 Unless any copyright restrictions come up, all content is distributed under [CC-BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/), meaning you can use it with attribution and not make derivatives, so as to avoid splintering the project. If you do anything more than build parsers and tools for processing files, you might want to double check the license of the original file by finding it on Google, but not necessary unless you basically are selling the file or advertising with it directly pretty much.
 
-![https://creativecommons.org/licenses/by-nd/4.0/](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nd.png)
+<a href="https://creativecommons.org/licenses/by-nd/4.0/"><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nd.png" height="48" /></a>
 
 ## TermSurf
 
